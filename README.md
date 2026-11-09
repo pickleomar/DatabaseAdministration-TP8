@@ -17,6 +17,4 @@ A SQL Server lab covering scheduled jobs, email notifications and error alerts.
 
 Scheduled insertions, failure notifications, stock alerts and the severity-19 test were verified. The table and error-102 logging setting were restored, and the job resumed successfully.
 
-See [TP8_Final.md](TP8_Final.md) for explanations and screenshots.
-
 **Tools:** SQL Server, SQL Server Agent, SSMS and Database Mail.
